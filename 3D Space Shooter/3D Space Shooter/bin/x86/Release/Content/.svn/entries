@@ -1,0 +1,40 @@
+9
+
+dir
+184
+http://svn.assembla.com/svn/ITB010/3D%20Space%20Shooter/3D%20Space%20Shooter/3D%20Space%20Shooter/bin/x86/Release/Content
+http://svn.assembla.com/svn/ITB010
+
+
+
+2008-09-13T05:21:11.739467Z
+92
+itb009
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0e46c49-be69-4f5a-ad62-21024a331aea
+
+Audio
+dir
+
+Models
+dir
+
+textures
+dir
+
+Fonts
+dir
+

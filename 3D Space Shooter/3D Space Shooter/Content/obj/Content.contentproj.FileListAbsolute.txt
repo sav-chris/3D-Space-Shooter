@@ -1,0 +1,6 @@
+C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\obj\x86\Debug\Audio\MyGameAudio.xml
+C:\Documents and Settings\n5643708\Desktop\Physics\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\n5643708\Desktop\Physics\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\obj\x86\Debug\Audio\MyGameAudio.xml
+C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\obj\x86\Release\Audio\MyGameAudio.xml

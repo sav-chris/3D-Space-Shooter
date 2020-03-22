@@ -1,0 +1,82 @@
+9
+
+dir
+184
+http://svn.assembla.com/svn/ITB010/3D%20Space%20Shooter/3D%20Space%20Shooter/3D%20Space%20Shooter/Content/XSI/3D%20Space%20Shooter
+http://svn.assembla.com/svn/ITB010
+
+
+
+2008-09-12T08:04:04.354158Z
+78
+itb009
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0e46c49-be69-4f5a-ad62-21024a331aea
+
+Scenes
+dir
+
+Expressions
+dir
+
+Models
+dir
+
+Simulation
+dir
+
+system
+dir
+
+Composites
+dir
+
+Scripts
+dir
+
+Render_Pictures
+dir
+
+Pictures
+dir
+
+Actions
+dir
+
+Audio
+dir
+
+Backup
+dir
+
+Thumbnails
+dir
+
+Synoptic
+dir
+
+MatLib
+dir
+
+dotXSI
+dir
+
+Queries
+dir
+
+FCurves
+dir
+

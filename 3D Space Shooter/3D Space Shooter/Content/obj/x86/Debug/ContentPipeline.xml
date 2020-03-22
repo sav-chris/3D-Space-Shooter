@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\asteroid1.x</Source>
+      <Name>Models\asteroid1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\Models\asteroid1.xnb</Output>
+      <Time>2008-09-13T15:09:42.9045575+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\asteroid1%0.xml</Key>
+        <Value>2008-10-06T14:19:18.1057644+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\textures\asteroid1%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Fonts\Lucida Console.spritefont</Source>
+      <Name>Fonts\Lucida Console</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\Fonts\Lucida Console.xnb</Output>
+      <Time>2008-01-08T20:12:49.7006435+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\B1_stars.jpg</Source>
+      <Name>Textures\B1_stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\Textures\B1_stars.xnb</Output>
+      <Time>2008-09-13T15:11:24.840416+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\asteroid1%0.xml</Output>
+      <Time>2008-09-13T15:09:42.9045575+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\asteroid1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\textures\asteroid1%0.xnb</Output>
+      <Time>2008-09-13T15:11:25.219298+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Name>Models\p1_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Time>2008-09-13T15:09:43.16333+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\p1_wedge%0.xml</Key>
+        <Value>2008-10-06T14:19:22.5420039+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\textures\wedge_p1_diff_v1%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\p1_wedge%0.xml</Output>
+      <Time>2008-09-13T15:09:43.16333+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\textures\wedge_p1_diff_v1%0.xnb</Output>
+      <Time>2008-09-13T15:11:24.889241+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Particle.x</Source>
+      <Name>Models\Particle</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\Models\Particle.xnb</Output>
+      <Time>2008-09-13T15:09:43.1438+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Particle%0.xml</Key>
+        <Value>2008-10-06T14:19:19.0588284+10:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Particle.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Particle%0.xml</Output>
+      <Time>2008-09-13T15:09:43.1438+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Name>Models\pea_proj</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\Models\pea_proj.xnb</Output>
+      <Time>2008-09-13T15:09:43.0881395+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pea_proj%0.xml</Key>
+        <Value>2008-10-06T14:19:19.3215069+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\textures\pea_proj%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pea_proj%0.xml</Output>
+      <Time>2008-09-13T15:09:43.0881395+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pea_proj.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\textures\pea_proj%0.xnb</Output>
+      <Time>2008-09-13T15:11:24.9917735+10:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\University Stuff\2008\Semester 2\ITB010\ITB010 Project\3D Space Shooter\3D Space Shooter\3D Space Shooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2007-12-15T15:11:36.3595275+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Space Shooter", "3D Space Shooter\3D Space Shooter.csproj", "{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physics Engine", "..\..\Physics Engine\trunk\vs08\Physics Engine.csproj", "{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Debug|x86.ActiveCfg = Debug|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Debug|x86.Build.0 = Debug|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Release|Any CPU.ActiveCfg = Release|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Release|x86.ActiveCfg = Release|x86
+		{8CDB7B4E-235E-41EC-B9DB-DF9B0E1235C1}.Release|x86.Build.0 = Release|x86
+		{7DD776CB-FD4C-4603-9BFE-170924F49ED2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7DD776CB-FD4C-4603-9BFE-170924F49ED2}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{7DD776CB-FD4C-4603-9BFE-170924F49ED2}.Debug|x86.ActiveCfg = Debug|x86
+		{7DD776CB-FD4C-4603-9BFE-170924F49ED2}.Release|Any CPU.ActiveCfg = Release|x86
+		{7DD776CB-FD4C-4603-9BFE-170924F49ED2}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{7DD776CB-FD4C-4603-9BFE-170924F49ED2}.Release|x86.ActiveCfg = Release|x86
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{45DB44EF-A9BD-484A-B408-5A6BF5365A3C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
